@@ -1,5 +1,5 @@
 let isOpenend =false
-function close(){
+function closeraa(){
     console.log("yo")
     if(isOpenend){
         document.querySelector(".side-bar").style.animation =" identifier2 .5s  forwards"
